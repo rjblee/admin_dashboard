@@ -13,3 +13,23 @@ body {
 .nav-sidebar li {
     padding: 20px 20px;
 }
+
+.main {
+    /* margin-top: 50px; */
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+.placeholders {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.placeholder {
+    margin-bottom: 20px;
+}
+
+.placeholder img {
+    display: inline;
+    border-radius: 50%;
+}
