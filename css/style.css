@@ -3,8 +3,6 @@ body {
     font-family: 'DM Serif Display', serif;
 }
 
-
-
 .nav-sidebar {
     margin: 20px -20px 20px 20px;
     list-style-type: none;
@@ -27,6 +25,7 @@ body {
 
 .placeholder {
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .placeholder img {
