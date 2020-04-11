@@ -3,10 +3,6 @@ body {
     font-family: 'DM Serif Display', serif;
 }
 
-/* .sidebar {
-    color: black;
-} */
-
 .nav-sidebar {
     margin: 10px 0px 10px 10px;
     list-style-type: none;
@@ -20,6 +16,14 @@ body {
 .nav-sidebar li a {
     color: #0894d1;
 }
+/* 
+.page-header {
+    color: #0894d1;
+}
+
+.sub-header {
+    color: #0894d1;
+} */
 
 .main {
     /* margin-top: 50px; */
@@ -41,14 +45,6 @@ body {
     display: inline;
     border-radius: 50%;
 }
-/* 
-.detailed-result {
-    background-color: rgb(205, 234, 243);
-} */
-
-
-
-
 
 
 footer {
